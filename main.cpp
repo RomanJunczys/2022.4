@@ -146,6 +146,7 @@ int main()
     int licznik_piatek = 0;
 
 
+    // uwaga, trwa dlugo, cout po to by widziec, ze cos sie dziej
     for(int i=0; i<200; i++)
     {
         cout << i << " ";
